@@ -21,11 +21,7 @@ We currently release a subset of the training data and the complete test set of 
   <img src=figs/comparison_vertical_9.gif width=340 /> 
 </p>
 
-<p align="center">
-  <img src="fig/comparison_horizontal_9.gif" width="85%" /><br>
-  <img src="fig/comparison_horizontal_1.gif" width="85%" />
-</p>
----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 
 🚀 Examples of the VFI (**x8 Interpolation**) results on `X-Test`:
