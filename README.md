@@ -5,7 +5,7 @@
 
 ## 💻 Code
 
-We release the core implementation of our video frame interpolation model, alongside qualitative results and the UHD4K120FPS-N dataset. The source code is available in [here](http://toflow.csail.mit.edu/). 
+We release the core implementation of our video frame interpolation model, alongside qualitative results and the UHD4K120FPS-N dataset. The source code is available in [here](https://github.com/nxkobe/ExtremeMotion-VFI/tree/main/model). 
 
 ## 📁 UHD4K120FPS-N Dataset
 
