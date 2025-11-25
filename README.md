@@ -17,8 +17,8 @@ We currently release a subset of the training data and the complete test set of 
 🎯 Examples of the VFI (**x2 Interpolation**) results on `UHD-N-Test`:
 
 <p align="center">
-  <img src="figs/comparison_vertical_1.gif" width="150" />
-  <img src="figs/comparison_vertical_9.gif" width="150" />
+  <img src="fig/comparison_vertical_1.gif" width="42%" />
+  <img src="fig/comparison_vertical_9.gif" width="42%" />
 </p>
 -------------------------------------------------------------------------
 
