@@ -9,7 +9,7 @@ We release the core implementation of our video frame interpolation model, along
 
 ## 📁 UHD4K120FPS-N Dataset
 
-We currently release a subset of the training data and the complete test set of UHD4K120FPS-N; the full training set will be made publicly available in a subsequent version. Download `UHD4K120FPS-N dataset` in [Baidu Netdisk](https://pan.baidu.com/s/1-_mC0amK3ijZB_8U1PFplg?pwd=923b). 
+We currently release a subset of the training data and the complete test set of UHD4K120FPS-N; the full training set will be made publicly available in a subsequent version. Download `UHD4K120FPS-N dataset` in [Baidu Netdisk](https://pan.baidu.com/s/1-_mC0amK3ijZB_8U1PFplg?pwd=923b) or [Google Drive](https://drive.google.com/drive/folders/1KvewbnfT9W_3x6x53_fq4Ldv5el_vjGS?usp=drive_link).
 
 
 ## 🎬 Visual Results & Demo
